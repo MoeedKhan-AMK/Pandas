@@ -1,4 +1,6 @@
 Datasets/studentsperformance.csv
 Datasets/weatherHistory.csv
-.gitignore
 movies.csv
+TSLA STOCK ANALYSIS.csv
+TSLA STOCK ANALYSIS- header=False.csv
+TSLA STOCK ANALYSIS - index=False.csv
