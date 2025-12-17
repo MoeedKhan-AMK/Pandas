@@ -26,4 +26,7 @@ split-apply-combine.webp
 group_by.png
 studentsperformance.csv
 movies_data.csv
+merging_concat_basic.png
+pandas_joins.jpg
+sql_joins.webp
 .gitignore
